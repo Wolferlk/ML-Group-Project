@@ -2,9 +2,9 @@
 
 ## Problem
 In the real estate market, determining the correct price of a house is very important for both
-buyers and sellers. House prices depend on many factors such as the size of the house, number of
+buyers and sellers. **House prices depend on many factors such as the size of the house, number of
 rooms, location, quality of construction, and year built. However, manually estimating house
-prices based on these factors can be difficult and may lead to inaccurate results.
+prices based on these factors can be difficult and may lead to inaccurate results.**
 The problem addressed in this project is to predict the sale price of a house using machine
 learning techniques. By analyzing historical housing data from the Ames Housing Dataset, we
 aim to build models that can learn the relationship between house features and their prices.
@@ -13,13 +13,6 @@ value SalePrice. Multiple machine learning algorithms are applied and compared t
 which model provides the most accurate predictions.
 The outcome of this project can help in making better pricing decisions in the real estate industry
 and demonstrate how machine learning can be used to solve real-world problems.
-
-
-## Algorithms Used
-- Linear Regression
-- Decision Tree
-- Random Forest
-- Support Vector Regression (SVR)
 
 ## Dataset
 ### The Ames Housing Dataset
@@ -35,6 +28,12 @@ sale price of the houses.
 - Data Types: The features include both numerical and categorical variables, covering a
 wide range of aspects such as lot size, number of rooms, location, construction, and
 more.
+
+## Algorithms Used
+- Linear Regression
+- Decision Tree
+- Random Forest
+- Support Vector Regression (SVR)
 
 ## Team Members
 - Sasindu Diluranga
